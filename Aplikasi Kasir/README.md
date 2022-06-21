@@ -1,3 +1,4 @@
 ## 💸 Aplikasi Kasir - Netbeans PBO
 
-![cover](https://user-images.githubusercontent.com/80201030/167794873-df834d4b-2ff2-4911-a7fd-226f4f711895.png)
+![cover](https://user-images.githubusercontent.com/80201030/174853632-b39bd510-3b7a-496e-bc1a-95db113ea46f.png)
+
